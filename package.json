@@ -1,0 +1,26 @@
+{
+  "name": "react-hello-world",
+  "version": "1.0.0",
+  "description": "React Hello World Project",
+  "homepage": "https://github.com/ashutosh8547/react-hello-world#readme",
+  "bugs": {
+    "url": "https://github.com/ashutosh8547/react-hello-world/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashutosh8547/react-hello-world.git"
+  },
+  "license": "ISC",
+  "author": "Ashutosh Rout",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
